@@ -1,2 +1,2 @@
 # Hello World
-real stupidfcomm
+real stupid
